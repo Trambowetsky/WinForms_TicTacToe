@@ -1,0 +1,10 @@
+C:\Users\Саня\source\repos\WFTicTacToe\WFTicTacToe\bin\Debug\WFTicTacToe.exe.config
+C:\Users\Саня\source\repos\WFTicTacToe\WFTicTacToe\bin\Debug\WFTicTacToe.exe
+C:\Users\Саня\source\repos\WFTicTacToe\WFTicTacToe\bin\Debug\WFTicTacToe.pdb
+C:\Users\Саня\source\repos\WFTicTacToe\WFTicTacToe\obj\Debug\WFTicTacToe.csprojAssemblyReference.cache
+C:\Users\Саня\source\repos\WFTicTacToe\WFTicTacToe\obj\Debug\WFTicTacToe.Form1.resources
+C:\Users\Саня\source\repos\WFTicTacToe\WFTicTacToe\obj\Debug\WFTicTacToe.Properties.Resources.resources
+C:\Users\Саня\source\repos\WFTicTacToe\WFTicTacToe\obj\Debug\WFTicTacToe.csproj.GenerateResource.cache
+C:\Users\Саня\source\repos\WFTicTacToe\WFTicTacToe\obj\Debug\WFTicTacToe.csproj.CoreCompileInputs.cache
+C:\Users\Саня\source\repos\WFTicTacToe\WFTicTacToe\obj\Debug\WFTicTacToe.exe
+C:\Users\Саня\source\repos\WFTicTacToe\WFTicTacToe\obj\Debug\WFTicTacToe.pdb
